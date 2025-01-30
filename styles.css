@@ -1,25 +1,25 @@
-body {
-    background-color: coral;
-    font-family: 'Courier New', monospace;
-    margin: 50px;
-  }
-  
-  h1 {
-    color: hotpink;
-    font-size: 3em;
-  }
-  
-  p {
-    color: goldenrod;
-    font-size: 1.5em;
-  }
-  
-  ul {
-    list-style-type: circle;
-  }
-  
-  img {
-    max-width: 80%;
-    height: 150px;
-  }
-  
+  body {
+      background-color: coral;
+      font-family: 'Courier New', monospace;
+      margin: 50px;
+    }
+    
+    h1 {
+      color: hotpink;
+      font-size: 3em;
+    }
+    
+    p {
+      color: goldenrod;
+      font-size: 1.5em;
+    }
+    
+    ul {
+      list-style-type: circle;
+    }
+    
+    img {
+      max-width: 80%;
+      height: 150px;
+    }
+    
